@@ -1,0 +1,13 @@
+{
+    "files.autoSave": "afterDelay",
+    "C_Cpp.default.compilerPath": "/usr/bin/clang",
+    "workbench.editor.empty.hint": "hidden",
+    "sqldeveloper.sqlHistory.historyLimit": 500,
+    "workbench.colorTheme": "Visual Studio 2017 Dark - C++",
+    "kotlin.languageServer.enabled": false,
+    "kotlin.debugAdapter.enabled": false,
+    "security.workspace.trust.untrustedFiles": "open",
+    "github.copilot.nextEditSuggestions.enabled": true,
+    "python.createEnvironment.trigger": "off",
+    "backgroundCover.imagePath": "/Users/shinjansaha/Documents/background.png"
+}
