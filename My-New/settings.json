@@ -1,3 +1,6 @@
+
+// carbon steel by code aura https://codeaura.godutta.tech with some personal touches 
+
 {
     "editor.mouseWheelZoom": true,
     "editor.tokenColorCustomizations": {
@@ -167,7 +170,9 @@
         "terminal.border": "#1e293b",
         "terminalCursor.background": "#64748b",
         "terminalCursor.foreground": "#020617",
-        "terminal.selectionBackground": "#1e293b",
+        "terminal.integrated.cursorStyle": "underline",     
+        "terminal.integrated.cursorBlinking": true,  
+        "terminal.selectionBackground": "#0be9f9",
         "terminal.tab.activeBorder": "#64748b",
         "terminal.ansiBlack": "#020617",
         "terminal.ansiRed": "#dc2626",
